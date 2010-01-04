@@ -3,7 +3,7 @@
 # This script collects and display statistics about 
 # beanstalkd (http://kr.github.com/beanstalkd/)
 #
-# This program is copyright (c) 2009 Silentale SA
+# This program is copyright (c) 2009 Silentale SAS
 # Feedback and improvements are welcome.
 #
 # THIS PROGRAM IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
